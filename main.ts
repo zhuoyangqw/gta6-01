@@ -1,3 +1,6 @@
+// Solara Bay: an original open-world crime game in the spirit of GTA 6 — a sun-soaked
+// coastal city to explore on foot and by car, with traffic, pedestrians, a wanted level
+// and police, five story missions, combat, a HUD with a minimap, and saving.
 // A working gta6-01 entry (Node 22, standard library only): the game is this directory's
 // game/ folder, plain static files a desktop browser loads offline (game/index.html and its ES
 // modules, no library and no network request), and the program hands it in. It copies game/ and
